@@ -1,4 +1,4 @@
-# Bayesian Modeling Dengue Incidence Rate in Vulnerable Populations
+# Bayesian Modeling to predict Dengue Incidence Rate through socio-environmental deficiency index
 
 In this project, we explored using Bayesian Model in order to predict the chances of a county have high incidences of dengue fever.
 
